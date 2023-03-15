@@ -1,0 +1,17 @@
+/*Estilizagem do site Filosofia
+
+CSS é massa demais! Mude minha mente. -Edu, 2023.
+
+Participantes:    
+
+ Eduardo Carvalho Valadão, Isabela Cunha Silva, Lucas Matheus de Oliveira Barbosa, 
+ Samuel Prado Soares, Victor Afonso Fernandes
+
+Desenvolvido no VSCode e GitHub*/
+
+ul.navbar {
+    list-style-type: none;
+    overflow: hidden;
+    background-color: purple;
+    width: 100%;
+}
