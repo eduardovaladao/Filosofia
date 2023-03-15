@@ -9,9 +9,40 @@ Participantes:
 
 Desenvolvido no VSCode e GitHub*/
 
+
+/*Códigos de estruturação de caixas, fontes e navbar*/
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
 ul.navbar {
+    position: sticky;
+    top: 0px;
     list-style-type: none;
     overflow: hidden;
     background-color: purple;
     width: 100%;
 }
+
+.navbar li a {
+    float: left;
+    padding: 10px 40px;
+    color: #ffffff;
+    font-size: 18px;
+}
+/**/
+
+/*Títulos, parágrafos, etc*/
+h1.top-title {
+    text-align: center;
+    font-size: 30px;
+    color: black; /*vamo mudá sas cores :P*/
+}
+
+
+
+/**/
