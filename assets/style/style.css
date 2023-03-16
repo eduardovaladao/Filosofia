@@ -18,6 +18,7 @@ Desenvolvido no VSCode e GitHub.
 
 body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    /*background-color: rgb(170,50,250);*/
 }
 
 ul.navbar {
@@ -25,7 +26,7 @@ ul.navbar {
     top: 0px;
     list-style-type: none;
     overflow: hidden;
-    background-color: purple;
+    background-color: rgb(41, 41, 41);
     width: 100%;
 }
 
@@ -34,6 +35,7 @@ ul.navbar {
     padding: 10px 40px;
     color: #ffffff;
     font-size: 18px;
+    text-decoration: none;
 }
 /**/
 
@@ -42,6 +44,11 @@ h1.top-title {
     text-align: center;
     font-size: 30px;
     color: black; /*vamo mudá sas cores :P*/
+}
+
+h1.title1 {
+    text-align: left;
+    font-size: 20px;
 }
 
 
