@@ -28,7 +28,6 @@ nav {
 
 ul.navbar {
     list-style-type: none;
-    overflow: hidden;
     background-color: rgb(41, 41, 41);
     width: 100%;
     margin: 20px 0px;
