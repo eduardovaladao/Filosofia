@@ -21,22 +21,19 @@ body {
     /*background-color: rgb(170,50,250);*/
 }
 
-nav {
+ul.navbar {
+    list-style-type: none;
+    background-color: rgb(41, 41, 41);
+    overflow: hidden;
+    width: 100%;
+    margin: 20px 0px;
+    padding: 0;
     position: sticky;
     top: 0px;
 }
 
-ul.navbar {
-    list-style-type: none;
-    background-color: rgb(41, 41, 41);
-    width: 100%;
-    margin: 20px 0px;
-    padding: 0;
-}
-
 .navbar li a {
     float: left;
-    margin: 0;
     padding: 10px 40px;
     color: #ffffff;
     font-size: 18px;
