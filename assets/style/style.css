@@ -24,7 +24,7 @@ body {
 
 ul.navbar {
     list-style-type: none;
-    background-color: rgb(41, 41, 41);
+    background-color: rgb(165, 175, 179);
     overflow: hidden;
     width: 100%;
     margin: 20px 0px;
@@ -42,7 +42,7 @@ ul.navbar {
 }
 
 li a:hover {
-    background-color: black;
+    background-color: rgb(106, 128, 146);
 }
 /**/
 
@@ -56,9 +56,9 @@ h1.top-title {
 }
 
 h1.title1 {
-    border: 1px solid black;
+    border: 1px solid #364C59;
     border-radius: 50px;
-    background-color: black;
+    background-color: #364C59;
     color: #ffffff;
     text-align: center;
     font-size: 20px;
