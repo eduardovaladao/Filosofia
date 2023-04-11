@@ -91,13 +91,14 @@ li a:hover {
 
 .tl2 {
     color: var(--color-azul-100);
-    font-size: 18px;
+    font-size: 1.6rem;
     margin-top: 50px;
 }
 
 /**/
 
 .p1 {
+    font-size: 1.3rem;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -107,16 +108,12 @@ li a:hover {
 }
 
 p.intro {
+    font-size: 1.5rem;
     text-indent: 20px;
-    padding: 50px 10px;
+    padding: 50px 30px 0;
 
 }
 
-hr.ln {
-    background-color: var(--color-azul-10);
-    width: 43%;
-    height: 2px;
-}
 
 .dg {
     display: flex;
