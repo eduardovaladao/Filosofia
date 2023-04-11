@@ -87,6 +87,16 @@ li a:hover {
     border-radius: 50px;
 }
 
+/*subtítulos dos temas*/
+
+.tl2 {
+    color: var(--color-azul-100);
+    font-size: 18px;
+    margin-top: 50px;
+}
+
+/**/
+
 .p1 {
     display: flex;
     justify-content: center;
@@ -100,6 +110,12 @@ p.intro {
     text-indent: 20px;
     padding: 50px 10px;
 
+}
+
+hr.ln {
+    background-color: var(--color-azul-10);
+    width: 43%;
+    height: 2px;
 }
 
 .dg {
